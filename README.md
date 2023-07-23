@@ -1,0 +1,1 @@
+# generatepress-child-theme
